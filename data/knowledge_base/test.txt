@@ -1,0 +1,4 @@
+Abdelrahman built a breast cancer classifier using a Keras ANN, achieving 98.25% test accuracy.
+He containerized the training and inference pipeline using Docker and Docker Compose.
+The model is served through a Flask REST API that accepts 30 numeric features and returns a prediction.
+Abdelrahman also built a face verification system using FaceNet, achieving 98.60% accuracy and an AUC of 0.9957.
